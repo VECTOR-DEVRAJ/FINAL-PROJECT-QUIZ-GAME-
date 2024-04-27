@@ -1,0 +1,246 @@
+
+{
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which UK country features a dragon on their flag?",
+        "correct_answer": "Wales",
+        "incorrect_answers": [
+          "England",
+          "North Ireland",
+          "Scotland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which of the following European languages is classified as a &quot;language isolate?&quot;",
+        "correct_answer": "Basque",
+        "incorrect_answers": [
+          "Galician",
+          "Maltese",
+          "Hungarian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+        "correct_answer": "Samoyedic",
+        "incorrect_answers": [
+          "Hungarian",
+          "Finnish",
+          "Estonian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which country was NOT part of the Soviet Union?",
+        "correct_answer": "Romania",
+        "incorrect_answers": [
+          "Turkmenistan",
+          "Belarus",
+          "Tajikistan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the Capital of the United States?",
+        "correct_answer": "Washington, D.C.",
+        "incorrect_answers": [
+          "Los Angelas, CA",
+          "New York City, NY",
+          "Houston, TX"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How many time zones does China have?",
+        "correct_answer": "1",
+        "incorrect_answers": [
+          "3",
+          "4",
+          "2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the capital of the American state of Arizona?",
+        "correct_answer": "Phoenix",
+        "incorrect_answers": [
+          "Montgomery",
+          "Tallahassee",
+          "Raleigh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What name was historically used for the Turkish city currently known as Istanbul?",
+        "correct_answer": "Constantinople",
+        "incorrect_answers": [
+          "H&uuml;davendigar",
+          "S&ouml;ğ&uuml;t",
+          "Adrianople"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What state is the largest state of the United States of America?",
+        "correct_answer": "Alaska",
+        "incorrect_answers": [
+          "California",
+          "Texas",
+          "Washington"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Greenland is a part of which kingdom?",
+        "correct_answer": "Denmark",
+        "incorrect_answers": [
+          "Sweden",
+          "Norway",
+          "United Kingdom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which of the following languages does NOT use the Latin alphabet?",
+        "correct_answer": "Georgian",
+        "incorrect_answers": [
+          "Turkish",
+          "Swahili",
+          "Vietnamese"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the capital of Spain?",
+        "correct_answer": "Madrid",
+        "incorrect_answers": [
+          "Barcelona",
+          "Sevilla",
+          "Toledo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Harvard University is located in which city?",
+        "correct_answer": "Cambridge",
+        "incorrect_answers": [
+          "Providence",
+          "New York",
+          "Washington D.C."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the largest country in the world ?",
+        "correct_answer": "Russian Federation",
+        "incorrect_answers": [
+          "China",
+          "Canada",
+          "Brazil"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is Laos?",
+        "correct_answer": "Country",
+        "incorrect_answers": [
+          "Region",
+          "River",
+          "City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+        "correct_answer": "Ohio",
+        "incorrect_answers": [
+          "Florida",
+          "Idaho",
+          "New Mexico"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the official language of Costa Rica?",
+        "correct_answer": "Spanish",
+        "incorrect_answers": [
+          "English",
+          "Portuguese",
+          "Creole"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What is the Polish city known to Germans as Danzig?",
+        "correct_answer": "Gdańsk",
+        "incorrect_answers": [
+          "Warsaw",
+          "Zakopane",
+          "Poznań"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which city is the capital of the United States of America?",
+        "correct_answer": "Washington D.C",
+        "incorrect_answers": [
+          "Seattle",
+          "Albany",
+          "Los Angeles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which nation claims ownership of Antarctica?",
+        "correct_answer": "No one, but there are claims.",
+        "incorrect_answers": [
+          "United States of America",
+          "United Nations",
+          "Australia"
+        ]
+      }
+    ]
+  }
